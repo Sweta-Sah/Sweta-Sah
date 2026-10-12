@@ -120,7 +120,7 @@ Performed end-to-end data cleaning and exploratory data analysis on 10,000 bank 
 
 **Key finding:** 2,037 of 10,000 customers exited the bank, representing a churn rate of 20.37%.
 
-[View Project](https://github.com/Sweta-Sah/bank-customer-churn-analysis)
+🔗 [View Project](https://github.com/Sweta-Sah/bank-customer-churn-analysis)
 ---
 
 ## 🎓 Education
