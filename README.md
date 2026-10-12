@@ -1,6 +1,6 @@
 # Hi, I'm Sweta Sah 👋
 
-### Data Analyst | Business Analytics | SQL | Power BI | Python
+### Data Analytics | Business Analytics | SQL | Power BI | Python
 
 Data and Operations Analyst with 3+ years of experience in AI-enabled data operations, data quality, and intelligent document processing for US insurance, mortgage, and banking clients.
 
