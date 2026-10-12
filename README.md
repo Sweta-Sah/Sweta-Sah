@@ -106,6 +106,21 @@ A collection of SQL practice and analytical case studies focused on querying dat
 
 🔗 [View Project](https://github.com/Sweta-Sah/SQL_CASE_STUDIES)
 
+### 7. Bank Customer Churn Analysis
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+Performed end-to-end data cleaning and exploratory data analysis on 10,000 bank customer records to investigate customer churn patterns.
+
+- Merged customer and account datasets and removed 4 duplicate records.
+- Cleaned missing values, inconsistent categories, and invalid salary data.
+- Analyzed customer churn, including an overall churn rate of 20.37%.
+- Explored churn patterns by geography, gender, age, and other customer attributes.
+- Engineered features and prepared a model-ready dataset for further analysis.
+
+**Key finding:** 2,037 of 10,000 customers exited the bank, representing a churn rate of 20.37%.
+
+[View Project](https://github.com/Sweta-Sah/bank-customer-churn-analysis)
 ---
 
 ## 🎓 Education
